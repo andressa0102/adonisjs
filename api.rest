@@ -13,6 +13,7 @@ Content-Type: application/json
 
 POST https://adonis-gaji.onrender.com/login HTTP/1.1
 Content-Type: application/json
+Authorization: Bearer NzM.MDeQfpNVJk-_dmWNS3vU8Zrtr4X9m1_dMWynCcaIZq3sXaacQfpqCEZdEKrV
 
 {
     "email": "andressas.as1235@gmail.com",
